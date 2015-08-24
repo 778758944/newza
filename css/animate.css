@@ -1,0 +1,53 @@
+@charset "UTF-8";
+/**
+ * 
+ * @authors Your Name (you@example.org)
+ * @date    2015-08-21 10:53:04
+ * @version $Id$
+ */
+
+/* @-webkit-keyframes fade-in{
+ 	from{
+ 		-webkit-transform:rotate(0deg);
+ 		transform:rotate(0deg);
+ 	}
+ 	to{
+ 		-webkit-transform:rotate(90deg);
+ 		transform:rotate(90deg);
+ 	}
+ }
+
+ @-webkit-keyframes fade-out{
+ 	from{
+ 		-webkit-transform:rotate(90deg);
+ 		transform:rotate(90deg);
+ 	}
+ 	to{
+ 		-webkit-transform:rotate(0deg);
+ 		transform:rotate(0deg);
+ 	}
+ }*/
+/*.view-content{
+	-webkit-transform-origin:50% bottom;
+	transform-origin:50% bottom;
+	-webkit-transition:transform 2s ease-in;
+	transition:transform 2s linear;
+}*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
